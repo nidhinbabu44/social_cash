@@ -1,0 +1,89 @@
+.container
+{
+    
+max-width: 100%;
+}
+.social_container
+{
+    width: 200px;
+}
+.revelution_container
+{
+    font-family: 'Arvo', serif;
+    padding: 0px 238px;
+
+}
+
+.reve_tag
+{
+    text-align: center;
+}
+
+.be_container
+{
+    font-family: 'Arvo', serif;
+}
+
+.be_tag
+{
+    text-align: center;
+}
+
+.join_container
+{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.join_tag
+{
+    text-align: center;
+    color: grey;
+}
+
+.but_container
+{
+    text-align: center;
+}
+.btn {
+    border: 2px solid black;
+    background-color: white;
+    color: black;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+.info {
+    border-color: #2196F3;
+    color: dodgerblue;
+    font-weight: 800;
+  }
+  
+  .info:hover {
+    background: #2196F3;
+    color: white;
+  }
+
+  .img_tag{
+      max-width: 100%;
+  }
+
+
+
+  @media (max-width:1000px)
+  {
+.revelution_container
+{
+    padding: 0px 0px;
+}
+
+  }
+
+  @media (max-width:500px)
+  {
+.revelution_container
+{
+    padding: 0px 0px;
+}
+
+  }
